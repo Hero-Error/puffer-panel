@@ -3,6 +3,6 @@
 apt update
 apt install sudo
 apt install systemctl
-curl -s https://packagecloud.io/install/repositories/pufferpanel/pufferpanel/script.deb.sh?any=true | sudo bash
+curl -s https://github.com/Hero-Error/Jell-o/script.deb.sh?any=true | sudo bash
 sudo apt update
 sudo apt-get install pufferpanel
