@@ -1,0 +1,6 @@
+{
+  "timestamp": "2025-07-09T15:55:45.653Z",
+  "state": "error",
+  "message": "Execution failed: browserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium_headless_shell-1179/chrome-linux/headless_shell\n╔═════════════════════════════════════════════════════════════════════════╗\n║ Looks like Playwright Test or Playwright was just installed or updated. ║\n║ Please run the following command to download new browsers:              ║\n║                                                                         ║\n║     npx playwright install                                              ║\n║                                                                         ║\n║ <3 Playwright Team                                                      ║\n╚═════════════════════════════════════════════════════════════════════════╝",
+  "nextCheck": "2025-07-09T16:00:45.653Z"
+}
