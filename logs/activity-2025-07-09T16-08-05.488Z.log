@@ -1,0 +1,22 @@
+[2025-07-09T16:08:05.489Z] STATUS: starting - Session initialization
+[2025-07-09T16:08:05.503Z] STATUS: error - Execution failed: browserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium_headless_shell-1179/chrome-linux/headless_shell
+╔═════════════════════════════════════════════════════════════════════════╗
+║ Looks like Playwright Test or Playwright was just installed or updated. ║
+║ Please run the following command to download new browsers:              ║
+║                                                                         ║
+║     npx playwright install                                              ║
+║                                                                         ║
+║ <3 Playwright Team                                                      ║
+╚═════════════════════════════════════════════════════════════════════════╝
+[2025-07-09T16:08:05.503Z] ERROR: browserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium_headless_shell-1179/chrome-linux/headless_shell
+╔═════════════════════════════════════════════════════════════════════════╗
+║ Looks like Playwright Test or Playwright was just installed or updated. ║
+║ Please run the following command to download new browsers:              ║
+║                                                                         ║
+║     npx playwright install                                              ║
+║                                                                         ║
+║ <3 Playwright Team                                                      ║
+╚═════════════════════════════════════════════════════════════════════════╝
+    at /home/runner/work/puffer-panel/puffer-panel/session-keeper.js:42:30
+    at Object.<anonymous> (/home/runner/work/puffer-panel/puffer-panel/session-keeper.js:106:3)
+[2025-07-09T16:08:05.503Z] Browser session ended
