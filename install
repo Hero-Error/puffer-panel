@@ -1,8 +1,0 @@
-#!/bin/bash
-# Install puffer panel
-apt update
-apt install sudo
-apt install systemctl
-curl -s https://github.com/Hero-Error/Jell-o/blob/main/script.deb.sh?any=true | sudo bash
-sudo apt update
-sudo apt-get install pufferpanel
